@@ -3,8 +3,4 @@
 제 나름대로 정리하고 공부하기 위해 커밋 & 푸쉬를 하였습니다.
 
 ## 그리디 문제
-p87 -> [Java](https://github.com/azurealstn/coding-test/blob/master/greedy/Money.java)
-
-p99 -> [Java](https://github.com/azurealstn/coding-test/blob/master/greedy/One.java)
-
-p312 -> [Java](https://github.com/azurealstn/coding-test/blob/master/greedy/MulPlus.java)
+[클릭](https://github.com/azurealstn/coding-test/blob/master/greed.md)
