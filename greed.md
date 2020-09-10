@@ -6,8 +6,6 @@
 
 - [Java](https://github.com/azurealstn/coding-test/blob/master/greedy/Money.java)
 
----
-
 ### p.99 1이 될 때까지
 
 - 최대한 많이 나누면 됩니다.
@@ -15,8 +13,6 @@
 #### 코드
 
 - [Java](https://github.com/azurealstn/coding-test/blob/master/greedy/One.java)
-
----
 
 ### p.312 곱하기 혹은 더하기
 
