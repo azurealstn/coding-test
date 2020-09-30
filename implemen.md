@@ -12,3 +12,11 @@
 - check 메서드를 만들어 반환타입이 true이면 카운트 증가 if (check(i, j, k)) cnt++;
 
 [Java코드](https://github.com/azurealstn/coding-test/blob/master/implement/time.java)
+
+## p.115 왕실의 나이트
+
+- 전에 '상하좌우' 문제와 굉장히 유사
+- 나이트가 이동할 수 있는 경로를 하나씩 확인하여 이동
+- 코드를 보면서 이해할 것!
+
+[Java코드](https://github.com/azurealstn/coding-test/blob/master/implement/Night.java)
