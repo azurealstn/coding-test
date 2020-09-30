@@ -20,3 +20,13 @@
 - 코드를 보면서 이해할 것!
 
 [Java코드](https://github.com/azurealstn/coding-test/blob/master/implement/Night.java)
+
+## p.118 게임
+
+- 전형적인 시뮬레이션 문제
+- 먼저 뱡향을 정의하고, 왼쪽으로 회전하는 static 메서드 `turn_left()`, 맵 저장을 위한 초기화를 해준다음 메인메서드에서 코드를 작성
+- 먼저 문제대로 `//왼쪽 회전`하여 위치를 각각 `nx`, `ny`에 저장
+- 이제 회전 이후 가보지 않은 칸, 가보지 않은 칸이 없는 경우, 뒤에도 막혔을 경우를 나누어서 해결
+- 문제를 최대한 이해할 것!
+
+[Java코드](https://github.com/azurealstn/coding-test/blob/master/implement/Game.java)
