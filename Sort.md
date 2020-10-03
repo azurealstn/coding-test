@@ -31,4 +31,4 @@
 - 특정한 조건이 부합할 경우에만 사용가능하지만 그만큼 매우 빠른 정렬 알고리즘
 - 데이터의 크기 범위가 제한되어 정수 형태로 표현할 경우에만 (반대로 무한한 범위를 가질 수 있는 실수형 데이터는 사용하기 어려움)
 
-[Java코드](https://github.com/azurealstn/coding-test/tree/master/Sort/
+[Java코드](https://github.com/azurealstn/coding-test/tree/master/Sort/Counting.java)
