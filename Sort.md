@@ -16,3 +16,12 @@
 - 삽입정렬의 최선의 경우에는 `O(N)`, 평균 속도는 `O(N^2)`
 
 [Java코드](https://github.com/azurealstn/coding-test/blob/master/Sort/Insertion.java)
+
+## p.168 퀵정렬
+
+- 기준 데이터를 설정하고 그 기준보다 큰 데이터와 작은 데이터의 위치를 바꾸어 분할시킨다.
+- 리스트에서 1번째 데이터를 피벗으로 정한다.
+- 각 분할된 상태에서 다시 왼쪽과 오른쪽을 퀵정렬을 한다. (재귀적 함수)
+- 시간복잡도는 `O(NlogN)`이다. 이는 데이터의 개수가 많으면 많을수록 압도적으로 빠른 속도를 자랑한다. 다만, 최악의 경우 `O(N^2)`이다.
+
+[Java코드](https://github.com/azurealstn/coding-test/blob/master/Sort/Quick.java)
