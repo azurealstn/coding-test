@@ -25,3 +25,10 @@
 - 시간복잡도는 `O(NlogN)`이다. 이는 데이터의 개수가 많으면 많을수록 압도적으로 빠른 속도를 자랑한다. 다만, 최악의 경우 `O(N^2)`이다.
 
 [Java코드](https://github.com/azurealstn/coding-test/blob/master/Sort/Quick.java)
+
+## p.171 계수 정렬
+
+- 특정한 조건이 부합할 경우에만 사용가능하지만 그만큼 매우 빠른 정렬 알고리즘
+- 데이터의 크기 범위가 제한되어 정수 형태로 표현할 경우에만 (반대로 무한한 범위를 가질 수 있는 실수형 데이터는 사용하기 어려움)
+
+[Java코드](https://github.com/azurealstn/coding-test/tree/master/Sort/
