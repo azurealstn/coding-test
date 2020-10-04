@@ -48,3 +48,11 @@
 - `Collections.sort()` 메소드로 정렬 수행
 
 [Java코드](https://github.com/azurealstn/coding-test/blob/master/Sort/Students.java)
+
+## p.182 두 배열의 원소 교체
+
+- 배열 A에서 가장 작은 원소를 골라서 배열 B에서 가장 큰 원소와 서로 교체하는 방식으로 해결
+- 위 과정을 K번 반복
+- 최종적으로 A배열에서 모든 원소의 합 출력
+
+[Java코드](https://github.com/azurealstn/coding-test/blob/master/Sort/ArrayReplace.java)
