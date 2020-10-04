@@ -39,3 +39,10 @@
 - 선택, 삽입, 퀵, 계수 정렬중 어느것을 사용해도 무방하지만 자바 기본 정렬 라이브러리를 이용하여 구현
 
 [Java코드](https://github.com/azurealstn/coding-test/blob/master/Sort/UpAndDown.java)
+
+## p.180 성적이 낮은 순서로 학생 출력하기
+
+- 이 문제는 학생 정보를 (점수, 이름)으로 묶은 뒤에 점수를 기준으로 정렬을 수행
+- 이 문제 역시 정렬 라이브러리 이용하여 구현
+- 먼저 객체를 정렬하는 Comparable 인터페이스 상속받는다
+- `Collections.sort()` 메소드로 정렬 수행
