@@ -46,3 +46,5 @@
 - 이 문제 역시 정렬 라이브러리 이용하여 구현
 - 먼저 객체를 정렬하는 Comparable 인터페이스 상속받는다
 - `Collections.sort()` 메소드로 정렬 수행
+
+[Java코드](https://github.com/azurealstn/coding-test/blob/master/Sort/Students.java)
