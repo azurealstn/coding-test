@@ -32,3 +32,10 @@
 - 데이터의 크기 범위가 제한되어 정수 형태로 표현할 경우에만 (반대로 무한한 범위를 가질 수 있는 실수형 데이터는 사용하기 어려움)
 
 [Java코드](https://github.com/azurealstn/coding-test/tree/master/Sort/Counting.java)
+
+## p.178 위에서 아래로
+
+- 이 문제는 가장 기본적인 정렬을 할 수 있는지
+- 선택, 삽입, 퀵, 계수 정렬중 어느것을 사용해도 무방하지만 자바 기본 정렬 라이브러리를 이용하여 구현
+
+[Java코드](https://github.com/azurealstn/coding-test/blob/master/Sort/UpAndDown.java)
